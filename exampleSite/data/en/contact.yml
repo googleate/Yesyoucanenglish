@@ -10,10 +10,8 @@ contact:
     info: Madrid, Spain
   - icon: ti-mobile
     info: 'Phone: +34 699 058 071'
-  - icon: ti-printer
-    info: 'Fax: +880-31-000-000'
   - icon: ti-email
-    info: 'Email: hello@meghna.com'
+    info: 'Email: johnkeithw@gmail.com'
   contact_form:
     enable: true
     form_action: "#"
