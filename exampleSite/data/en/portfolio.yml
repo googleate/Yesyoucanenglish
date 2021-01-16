@@ -15,11 +15,11 @@ portfolio:
     categories: []
     content: Lucius Quinctius Cincinnatus
     link: ''
-  - name: Cincinatti
+  - name: Cincinnati
     image: images/Ohio-HPR.jpg
     image_webp: images/Ohio-HPR.webp
     categories: []
-    content: City of Cincinatti
+    content: City of Cincinnati
     link: ''
   - name: Procter & Gamble
     image: "/images/proctor.jpg"
