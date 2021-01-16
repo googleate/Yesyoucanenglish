@@ -21,13 +21,11 @@ portfolio:
     categories: []
     content: City of Cincinatti
     link: ''
-  - name: Bottol Label
-    image: images/portfolio/portfolio-4.jpg
-    image_webp: images/portfolio/portfolio-4.webp
-    categories:
-    - photography
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Procter & Gamble
+    image: "/images/proctor.jpg"
+    image_webp: "/images/proctor.webp"
+    categories: []
+    content: Procter & Gamble Head Quarters in Cincinnati
     link: "#"
   - name: Shopping Bag
     image: images/portfolio/portfolio-5.jpg
