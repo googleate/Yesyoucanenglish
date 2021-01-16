@@ -5,8 +5,8 @@ testimonial:
   bg_image_webp: images/backgrounds/bg-testimonial.webp
   testimonial_item:
   - name: Expectations for the LA Program
-    image: images/client/client-1.jpg
-    image_webp: images/client/client-1.webp
+    image: images/client-1.jpg
+    image_webp: images/client-1.webp
     date: Dec 26, 2018
     content: "“I do not have any expectations: What will happen will happen”.\nI have
       taught in private and private with public funding schools, but I have never
