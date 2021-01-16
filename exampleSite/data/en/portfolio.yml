@@ -5,7 +5,7 @@ portfolio:
   portfolio_item:
   - name: Buckeye
     image: images/portfolio/buckeye.jpg
-    image_webp: ''
+    image_webp: images/portfolio/buckeye.webp
     categories: []
     content: Buckeye
     link: ''
