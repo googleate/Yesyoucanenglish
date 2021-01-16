@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "John Ware"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed by [Santiago Llera](https://www.googleate.es/)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -55,11 +55,11 @@ url = "https://themefisher.com/"
 weight = 8
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+copyright = "Copyright &copy; 2021 Diseñado por [Santiago Llera](https://www.googleate.es/)"
+home = "Inicio"
+languageCode = "es-es"
+languageName = "Es"
+weight = "2"
 [[Languages.fr.menu.main]]
 name = "sur"
 pre = "#"
@@ -91,7 +91,7 @@ pre = "#"
 url = "blog"
 weight = 6
 [[Languages.fr.menu.main]]
-name = "contact"
+name = "contacto"
 pre = "#"
 url = "contact"
 weight = 7
