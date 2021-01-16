@@ -1,7 +1,7 @@
 ---
 cta:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
+  bg_image: ''
   bg_image_webp: ''
   title: '"Me and the city"'
   content: "Hi, my name is John.\nI am from Cincinnati, Ohio. Ohio is called the Buckeye
