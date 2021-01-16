@@ -3,8 +3,8 @@ disableLanguages = ["fr"]
 disqusShortname = "John Ware"
 paginate = "6"
 summaryLength = "15"
-theme = "meghna-hugo"
-themesDir = "../.."
+theme = "Santiago Llera"
+themesDir = ""
 title = "John Ware"
 [Languages.en]
 contentDir = "content/english"
