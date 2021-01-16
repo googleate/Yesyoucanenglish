@@ -12,7 +12,8 @@ portfolio:
   - name: Cincinnatus
     image: images/Cincinnatus2.jpg
     image_webp: images/Cincinnatus2.webp
-    categories: []
+    categories:
+    - Photos
     content: Lucius Quinctius Cincinnatus
     link: ''
   - name: Buckeye
