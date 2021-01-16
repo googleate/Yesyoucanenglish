@@ -143,14 +143,14 @@ link = "plugins/google-map/map.js"
 enable = false
 preloader = "images/logo.png"
 [[params.social]]
+icon = "ti-twitter"
+link = "https://twitter.com/YesUCanENGLISH"
+[[params.social]]
 icon = "ti-facebook"
 link = "https://www.facebook.com/yesyoucanenglishmadrid/"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
 icon = "ti-youtube"
-link = "#"
+link = "https://www.youtube.com/user/warehouse400/videos"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
