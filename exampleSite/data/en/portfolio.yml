@@ -3,17 +3,11 @@ portfolio:
   enable: true
   title: Gallery
   portfolio_item:
-  - name: P&G Products
-    image: "/images/procter_and_gamble.jpg"
-    image_webp: "/images/procter_and_gamble.webp"
-    categories: ''
-    content: P&G most popular Products
-    link: ''
-  - name: Buckeye
-    image: images/buckeye.jpg
-    image_webp: "/images/buckeye.webp"
+  - name: Cincinnati
+    image: images/Ohio-HPR.jpg
+    image_webp: images/Ohio-HPR.webp
     categories: []
-    content: Buckeye Tree picture
+    content: City of Cincinnati
     link: ''
   - name: Cincinnatus
     image: images/Cincinnatus2.jpg
@@ -21,11 +15,11 @@ portfolio:
     categories: []
     content: Lucius Quinctius Cincinnatus
     link: ''
-  - name: Cincinnati
-    image: images/Ohio-HPR.jpg
-    image_webp: images/Ohio-HPR.webp
+  - name: Buckeye
+    image: images/buckeye.jpg
+    image_webp: "/images/buckeye.webp"
     categories: []
-    content: City of Cincinnati
+    content: Buckeye Tree picture
     link: ''
   - name: Procter & Gamble
     image: "/images/proctor.jpg"
@@ -33,6 +27,12 @@ portfolio:
     categories: []
     content: Procter & Gamble Head Quarters in Cincinnati
     link: "#"
+  - name: P&G Products
+    image: "/images/procter_and_gamble.jpg"
+    image_webp: "/images/procter_and_gamble.webp"
+    categories: ''
+    content: P&G most popular Products
+    link: ''
   - name: George Washington
     image: "/images/washington.jpg"
     image_webp: "/images/washington.webp"
