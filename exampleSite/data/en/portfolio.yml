@@ -20,7 +20,8 @@ portfolio:
   - name: Buckeye
     image: images/buckeye.jpg
     image_webp: "/images/buckeye.webp"
-    categories: []
+    categories:
+    - Photos
     content: Buckeye Tree picture
     link: ''
   - name: Procter & Gamble
