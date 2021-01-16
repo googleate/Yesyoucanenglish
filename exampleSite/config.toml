@@ -1,6 +1,6 @@
 baseURL = "johnware.netlify.app"
 disableLanguages = ["fr"]
-disqusShortname = ""
+disqusShortname = "John Ware"
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
@@ -120,7 +120,7 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 [params.preloader]
-enable = false
+enable = true
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-twitter"
