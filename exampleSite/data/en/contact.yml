@@ -13,7 +13,7 @@ contact:
   - icon: ti-email
     info: 'Email: johnkeithw@gmail.com'
   contact_form:
-    enable: true
+    enable: false
     form_action: "#"
     name: Your Name
     email: Your Email
