@@ -4,8 +4,8 @@ portfolio:
   title: Gallery
   portfolio_item:
   - name: Buckeye
-    image: images/portfolio/buckeye.jpg
-    image_webp: images/portfolio/buckeye.webp
+    image: images/buckeye.jpg
+    image_webp: "/images/buckeye.webp"
     categories: []
     content: Buckeye Tree picture
     link: ''
