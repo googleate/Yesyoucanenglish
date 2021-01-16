@@ -6,7 +6,8 @@ portfolio:
   - name: Cincinnati
     image: images/Ohio-HPR.jpg
     image_webp: images/Ohio-HPR.webp
-    categories: []
+    categories:
+    - Photos
     content: City of Cincinnati
     link: ''
   - name: Cincinnatus
@@ -25,24 +26,28 @@ portfolio:
   - name: Procter & Gamble
     image: "/images/proctor.jpg"
     image_webp: "/images/proctor.webp"
-    categories: []
+    categories:
+    - Photos
     content: Procter & Gamble Head Quarters in Cincinnati
     link: "#"
   - name: P&G Products
     image: "/images/gamble.jpg"
     image_webp: "/images/gamble.webp"
-    categories: ''
+    categories:
+    - Photos
     content: P&G most popular Products
     link: "#"
   - name: George Washington
     image: "/images/washington.jpg"
     image_webp: "/images/washington.webp"
-    categories: []
+    categories:
+    - Photos
     content: First president of the US George Washington
     link: "#"
   - name: Abraham Lincoln
     image: "/images/abraham_lincoln_o-77_matte_collodion_print.jpg"
     image_webp: "/images/abraham_lincoln_o-77_matte_collodion_print.webp"
-    categories: []
+    categories:
+    - Photos
     content: 16th president of the United States of America
     link: "#"
