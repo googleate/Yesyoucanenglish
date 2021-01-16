@@ -2,7 +2,7 @@
 cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image_webp: ''
   title: '"Me and the city"'
   content: "Hi, my name is John.\nI am from Cincinnati, Ohio. Ohio is called the Buckeye
     State because there are a lot of buckeye trees and nuts. The original name is
