@@ -27,18 +27,11 @@ portfolio:
     categories: []
     content: Procter & Gamble Head Quarters in Cincinnati
     link: "#"
-  - name: Washington
+  - name: George Washington
     image: "/images/washington.jpg"
     image_webp: "/images/washington.webp"
     categories: []
     content: First president of the US George Washington
-    link: "#"
-  - name: George Washington
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
-    categories:
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Abraham Lincoln
     image: "/images/abraham_lincoln_o-77_matte_collodion_print.jpg"
