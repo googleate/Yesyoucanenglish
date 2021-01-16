@@ -3,6 +3,12 @@ portfolio:
   enable: true
   title: Gallery
   portfolio_item:
+  - name: P&G Products
+    image: "/images/procter_and_gamble.jpg"
+    image_webp: "/images/procter_and_gamble.webp"
+    categories: ''
+    content: P&G most popular Products
+    link: ''
   - name: Buckeye
     image: images/buckeye.jpg
     image_webp: "/images/buckeye.webp"
