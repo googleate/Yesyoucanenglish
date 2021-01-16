@@ -27,14 +27,13 @@ portfolio:
     categories: []
     content: Procter & Gamble Head Quarters in Cincinnati
     link: "#"
-  - name: Shopping Bag
-    image: images/portfolio/portfolio-5.jpg
-    image_webp: images/portfolio/portfolio-5.webp
-    categories:
-    - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Washington
+    image: "/images/washington.jpg"
+    image_webp: "/images/washington.webp"
+    categories: []
+    content: First president of the US George Washington
     link: "#"
-  - name: Tag Design
+  - name: George Washington
     image: images/portfolio/portfolio-6.jpg
     image_webp: images/portfolio/portfolio-6.webp
     categories:
