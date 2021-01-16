@@ -32,7 +32,7 @@ portfolio:
     image_webp: "/images/gamble.webp"
     categories: ''
     content: P&G most popular Products
-    link: ''
+    link: "#"
   - name: George Washington
     image: "/images/washington.jpg"
     image_webp: "/images/washington.webp"
