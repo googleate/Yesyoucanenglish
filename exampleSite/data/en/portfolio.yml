@@ -1,7 +1,7 @@
 ---
 portfolio:
   enable: true
-  title: Our Works
+  title: Gallery
   portfolio_item:
   - name: Buckeye
     image: images/portfolio/buckeye.jpg
