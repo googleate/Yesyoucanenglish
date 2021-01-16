@@ -28,8 +28,8 @@ portfolio:
     content: Procter & Gamble Head Quarters in Cincinnati
     link: "#"
   - name: P&G Products
-    image: "/images/procter_and_gamble.jpg"
-    image_webp: "/images/procter_and_gamble.webp"
+    image: "/images/gamble.jpg"
+    image_webp: "/images/gamble.webp"
     categories: ''
     content: P&G most popular Products
     link: ''
