@@ -3,8 +3,8 @@ contact:
   enable: true
   title: Contact Me
   subtitle: Contact Details
-  content: If you would likt to gt in touch with me feel free to contact to any of
-    this below
+  content: If you would like to get in touch with me feel free to contact by any of
+    this ways below
   contact_list:
   - icon: ti-location-pin
     info: Madrid, Spain
