@@ -40,12 +40,11 @@ portfolio:
     - photography
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Business Card
-    image: images/portfolio/portfolio-7.jpg
-    image_webp: images/portfolio/portfolio-7.webp
-    categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  - name: Abraham Lincoln
+    image: "/images/abraham_lincoln_o-77_matte_collodion_print.jpg"
+    image_webp: "/images/abraham_lincoln_o-77_matte_collodion_print.webp"
+    categories: []
+    content: 16th president of the United States of America
     link: "#"
   - name: Stationary Design
     image: images/portfolio/portfolio-8.jpg
