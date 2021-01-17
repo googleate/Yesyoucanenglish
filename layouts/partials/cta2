@@ -1,0 +1,25 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.cta.cta.enable}}
+{{ with $data.cta.cta}}
+{{"<!-- Start Call To Action -->" | safeHTML}}
+<section id="cta2" class="call-to-action section-sm bg-1 overly" style='background-image: url("/images/ohio-hpr.webp")'>
+	<!-- this image is for trigger this section fallback background image -->
+	<img src="{{ .bg_image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url(/images/ohio-hpr.webp)'">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h2>{{ .title | markdownify }}</h2>
+				<p>Proctor & Gamble, one of the most notorious worldwide Industries was founded in Cincinnati in 1837. They make many personal health and hygiene products that many people use daily such as Fairy, Ariel, Don Limpio, Dodot, H & S, Oral-B and Ambi Pur. Its international headquarters is located in the center of the downtown area which has easy access to Cincinnati/Northern Kentucky International Airport. In the center of the downtown area, you will find Fountain Square and The Tyler Davidson Fountain placed in the middle. The Square has been the symbolic center for the city since 1871 and many gather there for events that are held throughout the year. I was born in Athens, Georgia, which is in the deep south of the United States, but when I was six months old, after my mother had recovered from giving birth, we moved to Cincinnati where I grew up and had a private catholic education. From an early age, I knew I wanted to help people, but never thought or dreamt it would be through education.</p>
+				{{ if .button.enable }}
+				{{ with .button }}
+				<a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a>
+				{{ end }}
+				{{ end }}
+			</div>
+		</div>
+	</div>
+</section>
+{{"<!-- Start Services Section -->" | safeHTML}}
+{{ end }}
+{{ end }}
