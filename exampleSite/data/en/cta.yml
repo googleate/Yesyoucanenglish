@@ -12,4 +12,4 @@ cta:
   button:
     enable: true
     label: Read More
-    link: 'Path: english/blog/me-and-my-city.md'
+    link: english/blog/me-and-my-city.md
