@@ -2,18 +2,19 @@
 author = "John Keith Ware"
 date = 2021-01-16T23:00:00Z
 description = "Interests Related to the Final Project english teacher"
-image = ""
+image = "/images/ohio-hpr.jpg"
 image_webp = ""
 title = "Interests Related to the Final Project."
 
 +++
-[![](/images/video.jpg)](https://www.youtube.com/watch?v=9UcnABDsGbo "A mind is a terrible thing to waste")
 
 **“A mind is a terrible thing to waste”**
 
 As a child I did my homework many times while watching tv or just having it on, I remember seeing a commercial by the United Negro College Fund. The message was clear: work or study, do something with your life. It showed people who looked like me working as doctors, engineers, scientists, lawyers and teachers. This gave me hope that I could be and achieve anything I wanted to in life through education. What stuck with me the most about the video was the phrase: “A mind is a terrible thing to waste”.
 
 INEQUALITY PHOTO AND UNITED NEGRO COLLEGE FUND VIDEO
+
+[![](/images/video.jpg)](https://www.youtube.com/watch?v=9UcnABDsGbo "A mind is a terrible thing to waste")
 
 Based on surveys from the First European Survey on Language Competences (ESLC) and the Common European Framework of Reference for Languages (CEFR), there seems to be a continuously growing number of minority students enrolling in public schools yearly. I’m a strong advocate of equality and justice for all and feel that it is very important for children to see themselves portrayed on social media, especially television, which is highly watched just about from every youngster, as somebody positive in many different roles and professions. During my time in Spain, rarely have I seen minorities of color in social media and because of this, I decided to write this short story in hope of motivating minority children to become what they want in life.
 
