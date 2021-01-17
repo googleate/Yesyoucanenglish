@@ -13,6 +13,9 @@ feature:
     Masters:
     English Teaching, Physcology
   feature_item:
+  - title: ''
+    icon: ti-face-smile
+    content: I speak fluently spanish
   - title: I like what I do
     icon: ti-announcement
     content: Teaching is really a vocation and for me is a real pleasure and an oportinity
