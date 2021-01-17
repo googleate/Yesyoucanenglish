@@ -9,7 +9,9 @@ title = "\"Me and my City\""
 +++
 Hi, my name is John.
 
-I am from Cincinnati, Ohio. Ohio is called the Buckeye State because there are a lot of buckeye trees and nuts. The original name is “Hetuck” which comes from the Native Americans and means deer eye. They called the nut this because it resembles of a deer eye.![](/images/buckeye.jpg)
+I am from Cincinnati, Ohio. Ohio is called the Buckeye State because there are a lot of buckeye trees and nuts. The original name is “Hetuck” which comes from the Native Americans and means deer eye. They called the nut this because it resembles of a deer eye.
+
+![](/images/03137219-be6c-4513-af38-69de05a0e5aa-capture.jpg)
 
 Cincinnati comes from the ancient Roman hero Lucius Quinctius Cincinnatus, which was a Roman Republic hero in the 5th century B.C. It is said that the Roman Senate asked him to fight in the army of the republic against the Aequi (people from Italy who occupied parts of the Avens River, known today as Velino). Cincinnatus agreed and left his small farm to led the army against the foreign invaders, defeating them in just a few days’ time. The Roman Senate was greatly appreciative and wanted to award him with dictatorial powers, but he refused and went back to his farm.
 
@@ -27,7 +29,7 @@ Cincinnati is where the north begins in the US and played a very important role 
 
 The Underground Railroad was a secret network made up of different routes, houses, hidden places, symbols and songs starting in the south where slavery heavily persisted and leading to Canada which was considered the land of the free. Cincinnati was one of a headquarters for this secret network because it was near Cleveland, which was the last stop before they crossed Lake Erie making it to “The Promised Land”. The slaves used to sing the spiritual folklore The Promised Land which carried double meaning-The slaveholders thought they were referring to going to heaven after death, but for the slaves and members of the secret network, it also meant Canada.
 
-The name Cincinnatus also seemed to fit quite well as he was dedicated to agricultural, so was Cincinnati. It had many crops, soybean being its leading, followed by corn, wheat, hay, oats, popcorn and many livestock. 
+The name Cincinnatus also seemed to fit quite well as he was dedicated to agricultural, so was Cincinnati. It had many crops, soybean being its leading, followed by corn, wheat, hay, oats, popcorn and many livestock.
 
 Proctor & Gamble, one of the most notorious worldwide Industries was founded in Cincinnati in 1837. They make many personal health and hygiene products that many people use daily such as Fairy, Ariel, Don Limpio, Dodot, H & S, Oral-B and Ambi Pur. Its international headquarters is located in the center of the downtown area which has easy access to Cincinnati/Northern Kentucky International Airport.
 
