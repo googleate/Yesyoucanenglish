@@ -62,6 +62,6 @@ cta:
     going back to school to earn a doctorate degree. If not, I will be content with
     writing a book about my overall experience in Madrid, Spain as an African American."
   button:
-    enable: true
+    enable: false
     label: Contact
     link: "#contact"
