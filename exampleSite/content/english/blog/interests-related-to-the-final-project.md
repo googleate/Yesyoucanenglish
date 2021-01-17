@@ -2,7 +2,7 @@
 author = "John Keith Ware"
 date = 2021-01-16T23:00:00Z
 description = "Interests Related to the Final Project english teacher"
-image = "/images/tyler-davidson.jpg"
+image = ""
 image_webp = ""
 title = "Interests Related to the Final Project."
 
