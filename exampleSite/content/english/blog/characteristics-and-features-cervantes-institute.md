@@ -2,7 +2,6 @@
 author = "John Keith Ware"
 date = 2021-01-16T23:00:00Z
 description = "Instituto Cervantes"
-draft = true
 image = "/images/1.jpg"
 image_webp = ""
 title = "Characteristics and features Cervantes Institute"
