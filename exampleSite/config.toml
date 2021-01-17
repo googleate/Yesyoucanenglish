@@ -25,8 +25,8 @@ url = "portfolio"
 weight = 3
 [[Languages.en.menu.main]]
 name = "blog"
-pre = ""
-url = "https://yesyoucanenglish.es/"
+pre = "#"
+url = "blog"
 weight = 6
 [[Languages.en.menu.main]]
 name = "contact"
