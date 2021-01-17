@@ -21,29 +21,10 @@ At the end of each part of the short story, there is multiple choice exercise, w
 
 The House of Slaves is a short story written in third person. It is fiction based on real life events and historical facts, which takes place in Senegal, filled with colorful images of the journey. Keith, and African American living in Madrid, Spain, is granted a scholarship from yesyoucanENGLISH school and Vicente is in charge of the investigation department. Keith is very excited about the trip and also is looking forward to getting to know his roots, where part of his ancestors came from, Africa. That year, Vicente was doing the first part of a longitudinal study, investigating what young children in Senegal wanted to be when they grew up. As the adventure unravels, starting from Daker, destine to Gorée Island, they talk about the food they ate, people they met, things they did and finally Keith’s impression of the House of Slaves. It starts off from an elementary level, but as the story develops, it becomes more complex.
 
-[**Interests Related to the Final Project.**]()
-
-![](/images/inequality.jpg)
-
-As a child I did my homework many times while watching tv or just having it on, I remember seeing a commercial by the United Negro College Fund. The message was clear: work or study, do something with your life. It showed people who looked like me working as doctors, engineers, scientists, lawyers and teachers. This gave me hope that I could be and achieve anything I wanted to in life through education. What stuck with me the most about the video was the phrase: “A mind is a terrible thing to waste”.
-
-[**United Negro College Fund: "A mind is a terrible thing to waste"**]()
-
-[![](/images/video.jpg)](https://www.youtube.com/watch?v=9UcnABDsGbo "A mind is a terrible thing to waste")
-
-Based on surveys from the First European Survey on Language Competences (ESLC) and the Common European Framework of Reference for Languages (CEFR), there seems to be a continuously growing number of minority students enrolling in public schools yearly. I’m a strong advocate of equality and justice for all and feel that it is very important for children to see themselves portrayed on social media, especially television, which is highly watched just about from every youngster, as somebody positive in many different roles and professions. During my time in Spain, rarely have I seen minorities of color in social media and because of this, I decided to write this short story in hope of motivating minority children to become what they want in life.
-
-If they see someone who looks like them doing it, then it will not only be easier for them to dream about doing it, but also to visualize themselves doing it. Today, young girls are living an inspirational historical moment, as they watch for the first time in the US history, a woman of color become Vice President. Imagine how this must make them feel, seeing someone who looks like them rise up to a very important position in life.
-
-If they see someone who looks like them doing it, then it will not only be easier for them to dream about doing it, but also to visualize themselves doing it. Today, young girls are living an inspirational historical moment, as they watch for the first time in the US history, a woman of color become Vice President. Imagine how this must make them feel, seeing someone who looks like them rise up to a very important position in life.
-
-![](/images/kamala.jpg)  
-Kamala Harris
-
 ## Reading and Vocabulary Excercise
 
 At the end of each part of the short story, there is multiple choice exercise, with five options, but only one correct answer, to help assimilate and process the vocabulary learned. A glossary will not be provided because students should be active in their learning and the translation method is applied which gives the student the exact translation in their own language, so it is advisable for students to note down the new vocabulary that is learned as they read the story to help them successfully complete the task.
 
 ## [![](/images/boton.png)](https://form.jotform.com/210162460449349 "reading")READING
 
-[![](/images/boton.png)](https://form.jotform.com/210164901609349 "Excercise")
+## [![](/images/boton.png)](https://form.jotform.com/210164901609349 "Excercise")EXCERCISE
