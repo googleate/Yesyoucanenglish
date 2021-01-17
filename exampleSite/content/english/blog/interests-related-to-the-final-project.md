@@ -2,7 +2,7 @@
 author = "John Keith Ware"
 date = 2021-01-16T23:00:00Z
 description = "Interests Related to the Final Project english teacher"
-image = "/images/tyler-davidson2.jpg"
+image = "/images/inequality.jpg"
 image_webp = ""
 title = "Interests Related to the Final Project."
 
@@ -10,8 +10,6 @@ title = "Interests Related to the Final Project."
 **“A mind is a terrible thing to waste”**
 
 As a child I did my homework many times while watching tv or just having it on, I remember seeing a commercial by the United Negro College Fund. The message was clear: work or study, do something with your life. It showed people who looked like me working as doctors, engineers, scientists, lawyers and teachers. This gave me hope that I could be and achieve anything I wanted to in life through education. What stuck with me the most about the video was the phrase: “A mind is a terrible thing to waste”.
-
-INEQUALITY PHOTO AND UNITED NEGRO COLLEGE FUND VIDEO
 
 [![](/images/video.jpg)](https://www.youtube.com/watch?v=9UcnABDsGbo "A mind is a terrible thing to waste")
 
@@ -25,8 +23,6 @@ Kamala Harris
 **FINAL PROJECT: Learning Vocabulary from Short Stories and Pictures**
 
 My final project entitled “Learning Vocabulary from Short Stories and Pictures” was an Eureka moment. I had planned on doing a different topic, but at the last minute I decided that I had something better. The project deals with helping students acquire vocabulary of a second language from short stories and pictures. It is divided into two parts with different levels. The first part is aimed at students who have A2 and B1 levels and the second part is geared toward levels B2 and up. Upper-level students will be able to read the complete story while lower-level students will not, due to the increase difficulty of vocabulary and grammar as the story evolves.
-
-![](/images/inequality.jpg)
 
 The story is fiction based on real life events and is illustrated with pictures, making it more interesting for the lecturer. It also leaves room for activities dealing with research and surveys that both teachers and students can make use of. This helps in development of having a working knowledge of vocabulary used for description, reporting graphs and surveys in a fun way. At the end of each part of the short story, there are exercises to help assimilate and process the vocabulary learned, such as multiple choice, fill in the gaps and word formation.
 
