@@ -24,10 +24,10 @@ pre = "#"
 url = "portfolio"
 weight = 3
 [[Languages.en.menu.main]]
-name = "blog"
+name = "Project"
 pre = ""
 url = "blog"
-weight = 6
+weight = "6"
 [[Languages.en.menu.main]]
 name = "contact"
 pre = "#"
