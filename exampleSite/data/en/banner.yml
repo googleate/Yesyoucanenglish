@@ -5,7 +5,7 @@ banner:
   bg_image: "/images/wall.jpg"
   icon: ''
   title: John Keith Ware
-  content: This is mi personal portfolio
+  content: This is my personal portfolio
   button:
     enable: true
     label: Explore
