@@ -2,7 +2,6 @@
 author = "John Keith Ware"
 date = 2021-01-15T23:00:00Z
 description = ""
-draft = true
 image = "/images/inequality.jpg"
 image_webp = ""
 title = "Interests Related to the Final Project."
