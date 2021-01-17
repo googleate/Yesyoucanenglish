@@ -4,7 +4,7 @@ date = 2021-01-16T23:00:00Z
 description = "Interests Related to the Final Project english teacher"
 image = "/images/inequality.jpg"
 image_webp = ""
-title = "Interests Related to the Final Project."
+title = "Final Project."
 
 +++
 As a child I did my homework many times while watching tv or just having it on, I remember seeing a commercial by the United Negro College Fund. The message was clear: work or study, do something with your life. It showed people who looked like me working as doctors, engineers, scientists, lawyers and teachers. This gave me hope that I could be and achieve anything I wanted to in life through education. What stuck with me the most about the video was the phrase: “A mind is a terrible thing to waste”.
