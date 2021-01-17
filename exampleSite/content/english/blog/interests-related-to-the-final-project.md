@@ -21,7 +21,7 @@ If they see someone who looks like them doing it, then it will not only be easie
 ![](/images/harris.jpg)  
 Kamala Harris
 
-**FINAL PROJECT: Learning Vocabulary from Short Stories and Pictures**
+[**FINAL PROJECT: Learning Vocabulary from Short Stories and Pictures**]()
 
 My final project entitled “Learning Vocabulary from Short Stories and Pictures” was an Eureka moment. I had planned on doing a different topic, but at the last minute I decided that I had something better. The project deals with helping students acquire vocabulary of a second language from short stories and pictures. It is divided into two parts with different levels. The first part is aimed at students who have A2 and B1 levels and the second part is geared toward levels B2 and up. Upper-level students will be able to read the complete story while lower-level students will not, due to the increase difficulty of vocabulary and grammar as the story evolves.
 
@@ -35,23 +35,23 @@ The House of Slaves is a short story written in third person. It is fiction base
 
 [**Assigned grades and subjects**]()
 
-[**These are the following classes and subjects I teach:**]()
+**These are the following classes and subjects I teach:**
 
-[**4 classes of 1º ESO (12-13) / Technology, Geography and History and English**]()
+**4 classes of 1º ESO (12-13) / Technology, Geography and History and English**
 
-[**4 classes of 2º ESO (13-14) / Technology, Geography and History and English**]()
+**4 classes of 2º ESO (13-14) / Technology, Geography and History and English**
 
-[**1 class of 3º ESO (14 – 15) / English**]()
+**1 class of 3º ESO (14 – 15) / English**
 
-[**6 classes of 4º ESO (15 -16) / English**]()
+**6 classes of 4º ESO (15 -16) / English**
 
-[**1 class of 2º and 3º ESO (PMAR) English: Special Needs Education**]()
+**1 class of 2º and 3º ESO (PMAR) English: Special Needs Education**
 
-**Contributions to the LA Program**
+[**Contributions to the LA Program**]()
 
 Because of my interpersonal and communicative skills, along with my therapeutical background and knowledge, I mostly use communicative approach in teaching methods such as humanistic, which helps me relate better to the students and get them to relax, feel free, be themselves, open up and talk more. But every student is different and some might need other methods such as the audio-lingual which involves a lot of repetition to help them grasp and get a hold of the language.
 
-**Main activities developed as a LA**
+[**Main activities developed as a LA**]()
 
 Bilingual school are required for their students to achieve a particular level of English set by the guidelines of the Common European Framework of Reference for Language (CEFR) and Council of Europe. Students are evaluated by different test yearly to make sure that the standards are being met. The Cambridge Language Assessment is used at our Institute and has five levels (KET; PET; FCE; CAE; CPE) and the exam covers all four skills.
 
