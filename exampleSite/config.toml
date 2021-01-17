@@ -20,8 +20,8 @@ url = "https://form.jotform.com/210162460449349"
 weight = "2"
 [[Languages.en.menu.main]]
 name = "Exercises"
-pre = "#"
-url = "portfolio"
+pre = ""
+url = "https://form.jotform.com/210164901609349"
 weight = 3
 [[Languages.en.menu.main]]
 name = "Project"
