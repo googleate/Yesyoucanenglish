@@ -2,9 +2,9 @@
 author = "John Keith Ware"
 date = 2021-01-16T23:00:00Z
 description = "Interests Related to the Final Project english teacher"
-image = "/images/inequality.jpg"
+image = "/images/ppp.jpg"
 image_webp = ""
-title = "Final Project."
+title = "Final Project"
 
 +++
 [**Learning Vocabulary from Short Stories and Pictures**]()
@@ -16,6 +16,8 @@ The first part is aimed at students who have A2 and B1 levels and the second par
 The story is fiction based on real life events and is illustrated with pictures, making it more interesting for the lecturer. It also leaves room for activities dealing with research and surveys that both teachers and students can make use of. This helps in development of having a working knowledge of vocabulary used for description, reporting graphs and surveys in a fun way. 
 
 At the end of each part of the short story, there is multiple choice exercise, with five options, but only one correct answer, to help assimilate and process the vocabulary learned. A glossary will not be provided because students should be active in their learning and the translation method is applied which gives the student the exact translation in their own language, so it is advisable for students to note down the new vocabulary that is learned as they read the story to help them successfully complete the task.
+
+![](/images/inequality.jpg)
 
 [**Interests Related to the Final Project.**]()
 
