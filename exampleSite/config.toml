@@ -25,7 +25,7 @@ url = "portfolio"
 weight = 3
 [[Languages.en.menu.main]]
 name = "blog"
-pre = "#"
+pre = ""
 url = "blog"
 weight = 6
 [[Languages.en.menu.main]]
