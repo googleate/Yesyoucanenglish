@@ -9,7 +9,7 @@ title = "Characteristics and features Cervantes Institute"
 +++
 Cervantes Institute is a co-education bilingual high school with a lot of educational history, situated in the center of Madrid, in a historical building. Its historical background is due, on one hand, to the fact that the institution has been functioning for almost a century, since it was created in 1931, the year of the beginning of the Second Republic in Spain, which makes it ninety years old.
 
-![](/images/1.jpg)
+![](/images/4.jpg)
 
 On the other hand, because the school has changed addresses quite a few times in nine decades before ending up in its present location on Embajadores Street, in a building built in 1881. It was first a School for Veterinarians until 1960 when it became a High School and twenty years later, in 1981, when democracy arrived, it became a co-ed school.
 
