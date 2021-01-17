@@ -4,10 +4,11 @@ cta:
   bg_image: "/images/back.jpg"
   bg_image_webp: "/images/back.webp"
   title: '"Me and my City"'
-  content: 'Hi, my name is John. I am from Cincinnati, Ohio. Ohio is called the Buckeye
+  content: "Hi, my name is John. I am from Cincinnati, Ohio. Ohio is called the Buckeye
     State because there are a lot of buckeye trees and nuts. The original name is
     “Hetuck” which comes from the Native Americans and means deer eye. They called
-    the nut this because it resembles a deer eye. '
+    the nut this because it resembles a deer eye. \nCincinnati comes from the ancient
+    Roman hero Lucius Quinctius Cincinnatus..."
   button:
     enable: false
     label: Contact
