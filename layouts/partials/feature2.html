@@ -1,0 +1,41 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.feature.feature.enable }}
+{{ with $data.feature.feature }}
+{{"<!-- feature -->" | safeHTML}}
+<section class="section section-bg about-2 padding-0" id="feature">
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-lg-6 padding-0" style="background-image: url('{{ .image_webp | absURL }}'); background-size: cover; background-position: top center; background-repeat: no-repeat; min-height: 400px;">
+				<!-- this image is for trigger this section fallback background image -->
+				<img src="/images/proctor.webp" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url(/images/proctor.jpg)'">
+			</div>
+			<div class="col-lg-6">
+				<div class="content-block">
+					<h2>Proctor & Gamble</h2>
+					<p>{{ .content | markdownify }}</p>
+					<div class="row">
+						{{ range .feature_item }}
+						<div class="col-lg-6">
+							<div class="media">
+								{{with .icon}}
+								<div class="align-self-start mr-3">
+									<i class="{{ . }}"></i>
+								</div>
+								{{ end }}
+								<div class="media-body">
+									<h4 class="media-heading">{{ .title | markdownify }}</h4>
+									<p>Proctor & Gamble, one of the most notorious worldwide Industries was founded in Cincinnati in 1837. They make many personal health and hygiene products that many people use daily such as Fairy, Ariel, Don Limpio, Dodot, H & S, Oral-B and Ambi Pur. Its international headquarters is located in the center of the downtown area which has easy access to Cincinnati/Northern Kentucky International Airport. In the center of the downtown area, you will find Fountain Square and The Tyler Davidson Fountain placed in the middle. The Square has been the symbolic center for the city since 1871 and many gather there for events that are held throughout the year. I was born in Athens, Georgia, which is in the deep south of the United States, but when I was six months old, after my mother had recovered from giving birth, we moved to Cincinnati where I grew up and had a private catholic education. From an early age, I knew I wanted to help people, but never thought or dreamt it would be through education.</p>
+								</div>
+							</div>
+						</div>
+						{{ end }}
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{{"<!-- /feature -->" | safeHTML}}
+{{ end }}
+{{ end }}
