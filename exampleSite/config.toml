@@ -15,9 +15,9 @@ languageName = "En"
 weight = "1"
 [[Languages.en.menu.main]]
 name = "Reading"
-pre = "#"
+pre = ""
 url = "https://form.jotform.com/210162460449349"
-weight = 2
+weight = "2"
 [[Languages.en.menu.main]]
 name = "Exercises"
 pre = "#"
