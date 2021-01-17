@@ -44,6 +44,6 @@ Kamala Harris
 
 At the end of each part of the short story, there is multiple choice exercise, with five options, but only one correct answer, to help assimilate and process the vocabulary learned. A glossary will not be provided because students should be active in their learning and the translation method is applied which gives the student the exact translation in their own language, so it is advisable for students to note down the new vocabulary that is learned as they read the story to help them successfully complete the task.
 
-## [![](/images/boton.png)](https://form.jotform.com/210162460449349 "reading")[READING]()
+## [![](/images/boton.png)](https://form.jotform.com/210162460449349 "reading")READING
 
 ## ![](/images/boton.png)EXCERCISE
