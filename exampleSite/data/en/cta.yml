@@ -10,6 +10,6 @@ cta:
     the nut this because it resembles a deer eye. \nCincinnati comes from the ancient
     Roman hero Lucius Quinctius Cincinnatus..."
   button:
-    enable: false
-    label: Contact
-    link: "#contact"
+    enable: true
+    label: Read More
+    link: 'Path: english/blog/me-and-my-city.md'
