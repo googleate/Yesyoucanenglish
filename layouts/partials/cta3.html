@@ -1,0 +1,25 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.cta.cta.enable}}
+{{ with $data.cta.cta}}
+{{"<!-- Start Call To Action -->" | safeHTML}}
+<section id="cta" class="call-to-action section-sm bg-1 overly" style='background-image: url("{{ .bg_image_webp | absURL }}")'>
+	<!-- this image is for trigger this section fallback background image -->
+	<img src="{{ .bg_image_webp | absURL }}" style="display: none;" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12 text-center">
+				<h2></h2>
+				<p>At the beginning of the American Revolution War in 1775, the 13 colonies did not have an army. The Continental Army, an official organized military and The Framers, gave the charitable association the name The Society of the Cincinnati, electing George Washington to precede as the first chief and commander in 1783. They decided upon this name because they believed that the qualities and characteristics of Cincinnatus (humility, unselfishness, sacrifice and commitment to the public welfare): an act of altruism, were essential to sustain a republic. In 1790, Arthur St. Clair, president of the State Society of the Cincinnati of Pennsylvania and governor of the Northwest Territory founded in 1787 (Ohio 1803; Indiana 1816; Illinois 1818; Michigan 1837; Wisconsin 1848; Minnesota 1858), named the town after the Society as an act of appreciation and because many members from the Society settled in the Northwest Territory Region.</p>
+				{{ if .button.enable }}
+				{{ with .button }}
+				<a href="{{ .link }}" class="btn btn-main page-scroll">{{ .label }}</a>
+				{{ end }}
+				{{ end }}
+			</div>
+		</div>
+	</div>
+</section>
+{{"<!-- Start Services Section -->" | safeHTML}}
+{{ end }}
+{{ end }}
