@@ -1,9 +1,9 @@
 +++
 author = "John KeithWare"
 date = ""
-description = ""
-image = ""
-image_webp = ""
+description = "John Keith Ware portfolio"
+image = "/images/wall.jpg"
+image_webp = "/images/wall.webp"
 title = "\"Me and my City\""
 
 +++
