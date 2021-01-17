@@ -40,26 +40,10 @@ If they see someone who looks like them doing it, then it will not only be easie
 ![](/images/kamala.jpg)  
 Kamala Harris
 
-[**Assigned grades and subjects**]()
+## Reading and Vocabulary Excercise
 
-**These are the following classes and subjects I teach:**
+At the end of each part of the short story, there is multiple choice exercise, with five options, but only one correct answer, to help assimilate and process the vocabulary learned. A glossary will not be provided because students should be active in their learning and the translation method is applied which gives the student the exact translation in their own language, so it is advisable for students to note down the new vocabulary that is learned as they read the story to help them successfully complete the task.
 
-**4 classes of 1º ESO (12-13) / Technology, Geography and History and English**
+## [![](/images/boton.png)](https://form.jotform.com/210162460449349 "reading")[READING]()
 
-**4 classes of 2º ESO (13-14) / Technology, Geography and History and English**
-
-**1 class of 3º ESO (14 – 15) / English**
-
-**6 classes of 4º ESO (15 -16) / English**
-
-**1 class of 2º and 3º ESO (PMAR) English: Special Needs Education**
-
-[**Contributions to the LA Program**]()
-
-Because of my interpersonal and communicative skills, along with my therapeutical background and knowledge, I mostly use communicative approach in teaching methods such as humanistic, which helps me relate better to the students and get them to relax, feel free, be themselves, open up and talk more. But every student is different and some might need other methods such as the audio-lingual which involves a lot of repetition to help them grasp and get a hold of the language.
-
-[**Main activities developed as a LA**]()
-
-Bilingual school are required for their students to achieve a particular level of English set by the guidelines of the Common European Framework of Reference for Language (CEFR) and Council of Europe. Students are evaluated by different test yearly to make sure that the standards are being met. The Cambridge Language Assessment is used at our Institute and has five levels (KET; PET; FCE; CAE; CPE) and the exam covers all four skills.
-
-Due to my prior experience in preparing students for official English exams in private and private with government funding schools, I help prepare the students for the speaking part of the exam.
+## ![](/images/boton.png)EXCERCISE
