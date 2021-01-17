@@ -1,6 +1,6 @@
 +++
 author = "John KeithWare"
-date = ""
+date = 2021-01-16T23:00:00Z
 description = "John Keith Ware portfolio"
 image = "/images/wall.jpg"
 image_webp = "/images/wall.webp"
