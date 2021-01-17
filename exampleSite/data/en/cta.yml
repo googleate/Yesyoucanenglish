@@ -1,6 +1,6 @@
 ---
 cta:
-  enable: true
+  enable: false
   bg_image: "/images/back.jpg"
   bg_image_webp: "/images/back.webp"
   title: '"Me and my City"'
