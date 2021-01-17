@@ -2,7 +2,6 @@
 author = "John KeithWare"
 date = 2021-01-16T23:00:00Z
 description = "John Keith Ware portfolio"
-draft = true
 image = "/images/wall.jpg"
 image_webp = "/images/wall.webp"
 title = "\"Me and my City\""
