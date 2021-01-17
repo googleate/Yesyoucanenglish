@@ -9,7 +9,9 @@ title = "Final Project."
 +++
 [**Learning Vocabulary from Short Stories and Pictures**]()
 
-My final project entitled “Learning Vocabulary from Short Stories and Pictures” was an Eureka moment. I had planned on doing a different topic, but at the last minute I decided that I had something better. The project deals with helping students acquire vocabulary of a second language from short stories and pictures. It is divided into two parts with different levels. The first part is aimed at students who have A2 and B1 levels and the second part is geared toward levels B2 and up. Upper-level students will be able to read the complete story while lower-level students will not, due to the increase difficulty of vocabulary and grammar as the story evolves. 
+My final project entitled “Learning Vocabulary from Short Stories and Pictures” was an Eureka moment. I had planned on doing a different topic, but at the last minute I decided that I had something better. The project deals with helping students acquire vocabulary of a second language from short stories and pictures. It is divided into two parts with different levels.
+
+The first part is aimed at students who have A2 and B1 levels and the second part is geared toward levels B2 and up. Upper-level students will be able to read the complete story while lower-level students will not, due to the increase difficulty of vocabulary and grammar as the story evolves. 
 
 The story is fiction based on real life events and is illustrated with pictures, making it more interesting for the lecturer. It also leaves room for activities dealing with research and surveys that both teachers and students can make use of. This helps in development of having a working knowledge of vocabulary used for description, reporting graphs and surveys in a fun way. 
 
