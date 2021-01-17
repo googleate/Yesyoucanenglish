@@ -9,7 +9,7 @@ title = "\"Me and my City\""
 +++
 Hi, my name is John.
 
-I am from Cincinnati, Ohio. Ohio is called the Buckeye State because there are a lot of buckeye trees and nuts. The original name is “Hetuck” which comes from the Native Americans and means deer eye. They called the nut this because it resembles of a deer eye.
+I am from Cincinnati, Ohio. Ohio is called the Buckeye State because there are a lot of buckeye trees and nuts. The original name is “Hetuck” which comes from the Native Americans and means deer eye. They called the nut this because it resembles a deer eye.
 
 ![](/images/03137219-be6c-4513-af38-69de05a0e5aa-capture.jpg)
 
