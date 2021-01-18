@@ -11,11 +11,11 @@ Hi, my name is John.
 
 I am from Cincinnati, Ohio. Ohio is called the Buckeye State because there are a lot of buckeye trees and nuts. The original name is “Hetuck” which comes from the Native Americans and means deer eye. They called the nut this because it resembles a deer eye.
 
-![](/images/03137219-be6c-4513-af38-69de05a0e5aa-capture.jpg)
+![](/images/buckeye-1.jpg)
 
 Cincinnati comes from the ancient Roman hero Lucius Quinctius Cincinnatus, which was a Roman Republic hero in the 5th century B.C. It is said that the Roman Senate asked him to fight in the army of the republic against the Aequi (people from Italy who occupied parts of the Avens River, known today as Velino). Cincinnatus agreed and left his small farm to led the army against the foreign invaders, defeating them in just a few days’ time. The Roman Senate was greatly appreciative and wanted to award him with dictatorial powers, but he refused and went back to his farm.
 
-![](/images/cincinnatus2.jpg)
+![](/images/cinci.jpg)
 
 At the beginning of the American Revolution War in 1775, the 13 colonies did not have an army. The Continental Army, an official organized military and The Framers, gave the charitable association the name The Society of the Cincinnati, electing George Washington to precede as the first chief and commander in 1783.
 
@@ -27,7 +27,7 @@ In 1790, Arthur St. Clair, president of the State Society of the Cincinnati of P
 
 Cincinnati is where the north begins in the US and played a very important role during slavery, which dates back far as 1619 up until the end of the Civil War, when President Abraham Lincoln issued the Emancipation Proclamation on January 1, 1863, which declared "that all persons held as slaves" within the rebellious states "are, and henceforward shall be free." Before then, slaves had to escape from the torture and horrors of enslavement and did it with the help of abolitionists by using the Underground Railroad.
 
-![](/images/abraham_lincoln_o-77_matte_collodion_print.jpg)
+![](/images/lincoln.jpg)
 
 The Underground Railroad was a secret network made up of different routes, houses, hidden places, symbols and songs starting in the south where slavery heavily persisted and leading to Canada which was considered the land of the free. Cincinnati was one of a headquarters for this secret network because it was near Cleveland, which was the last stop before they crossed Lake Erie making it to “The Promised Land”. The slaves used to sing the spiritual folklore The Promised Land which carried double meaning-The slaveholders thought they were referring to going to heaven after death, but for the slaves and members of the secret network, it also meant Canada.
 
