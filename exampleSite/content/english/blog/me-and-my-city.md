@@ -17,6 +17,8 @@ Cincinnati comes from the ancient Roman hero Lucius Quinctius Cincinnatus, which
 
 ![](/images/cincinnatus2.jpg)
 
+At the beginning of the American Revolution War in 1775, the 13 colonies did not have an army. The Continental Army, an official organized military and The Framers, gave the charitable association the name The Society of the Cincinnati, electing George Washington to precede as the first chief and commander in 1783.
+
 They decided upon this name because they believed that the qualities and characteristics of Cincinnatus (humility, unselfishness, sacrifice and commitment to the public welfare): an act of altruism, were essential to sustain a republic.
 
 ![](/images/washington.jpg)
