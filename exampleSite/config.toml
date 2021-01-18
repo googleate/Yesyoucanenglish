@@ -8,7 +8,7 @@ themesDir = ""
 title = "John Ware"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Pictures Copyright &copy;Wikipedia & John Ware. Article written by John Keith Ware 2021 "
+copyright = "Pictures Copyright &copy;Wikipedia & John Ware. 2021 "
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
