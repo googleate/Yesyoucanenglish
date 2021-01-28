@@ -39,7 +39,7 @@ These are the following classes and subjects I teach:
 
 [**Contributions to the LA Program**]()
 
-Because of my interpersonal and communicative skills, along with my therapeutical background and knowledge, I mostly use communicative approach methods in teaching such as humanistic, which helps me relate better to the students and get them to relax, feel free, be themselves, open up and talk more. But every student is different and some might need other methods such as the audio-lingual which involves a lot of repetition to help them grasp and get a hold of the language.
+Because of my interpersonal and communicative skills, along with my therapeutical background and knowledge, I mostly use communicative approach methods in teaching, such as humanistic, which helps me relate better to the students and get them to relax, feel free, be themselves, open up and talk more. But every student is different and some might need other methods such as the audio-lingual which involves a lot of repetition to help them grasp and get a hold of the language.
 
 [**Main activities developed as a LA**]()
 
