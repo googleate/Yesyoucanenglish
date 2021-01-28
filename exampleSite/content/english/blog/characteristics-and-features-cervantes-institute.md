@@ -17,7 +17,7 @@ On the other hand, because the school has changed addresses quite a few times in
 
 When talking about the Cervantes Institute, it should certainly be remembered that very important Spanish intellectuals were teachers there. To name a few, let’s mention Antonio Machado, the writer, who taught French until he went into exile at the end of the Spanish Civil War, and also the artist Rafael de Penagos and the philosopher María Zambrano.
 
-![](/images/antonio.jpg)![](/images/rafael.jpg)![](/images/maria-1.jpg) * Antonio Machado, Rafael Penago, María Sambrano 
+![](/images/antonio.jpg)![](/images/rafael.jpg)![](/images/maria-1.jpg) * Antonio Machado, Rafael Penago, María Sambrano
 
 Today there are over a thousand students attending classes at Cervantes Institute. Many of them live in the neighboring areas, but there are also many boys and girls from all over Madrid. One must say that they are mostly well behaved, polite and respectful which makes the atmosphere at school nice. The students have a good level of English and seem interested in what is going on during class. These days, because of Covid, the average class of about twenty-three students has been reduced to about halve that size, so we teach smaller groups of ten, in most cases twelve.
 
@@ -39,7 +39,7 @@ These are the following classes and subjects I teach:
 
 [**Contributions to the LA Program**]()
 
-Because of my interpersonal and communicative skills, along with my therapeutical background and knowledge, I mostly use communicative approach in teaching methods such as humanistic, which helps me relate better to the students and get them to relax, feel free, be themselves, open up and talk more. But every student is different and some might need other methods such as the audio-lingual which involves a lot of repetition to help them grasp and get a hold of the language.
+Because of my interpersonal and communicative skills, along with my therapeutical background and knowledge, I mostly use communicative approach methods in teaching such as humanistic, which helps me relate better to the students and get them to relax, feel free, be themselves, open up and talk more. But every student is different and some might need other methods such as the audio-lingual which involves a lot of repetition to help them grasp and get a hold of the language.
 
 [**Main activities developed as a LA**]()
 
