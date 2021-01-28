@@ -29,7 +29,7 @@ Cincinnati is where the north begins in the US and played a very important role 
 
 ![](/images/lincoln.jpg)
 
-The Underground Railroad was a secret network made up of different routes, houses, hidden places, symbols and songs starting in the south where slavery heavily persisted and leading to Canada which was considered the land of the free. Cincinnati was one of a headquarters for this secret network because it was near Cleveland, which was the last stop before they crossed Lake Erie making it to “The Promised Land”. The slaves used to sing the spiritual folklore The Promised Land which carried double meaning-The slaveholders thought they were referring to going to heaven after death, but for the slaves and members of the secret network, it also meant Canada.
+The Underground Railroad was a secret network made up of different routes, houses, hidden places, symbols and songs starting in the south where slavery heavily persisted and leading to Canada which was considered the land of the free. Cincinnati was a base for this secret network because it was near Cleveland, which was the last stop before they crossed Lake Erie making it to “The Promised Land”. The slaves used to sing the spiritual folklore The Promised Land which carried double meaning-The slaveholders thought they were referring to going to heaven after death, but for the slaves and members of the secret network, it also meant Canada.
 
 The name Cincinnatus also seemed to fit quite well as he was dedicated to agricultural, so was Cincinnati. It had many crops, soybean being its leading, followed by corn, wheat, hay, oats, popcorn and many livestock.
 
